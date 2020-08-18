@@ -2,12 +2,12 @@
 Repositorio de diversas ideas y ejemplos de código en SwiftUI
 
 # Bottom Navigation Menu
-![Bottom Navigation Menu](https://firebasestorage.googleapis.com/v0/b/matiasnnr-repository.appspot.com/o/Gifs%2Fbottomnavmenu.gif?alt=media&token=0195418b-6533-4042-9248-28cb66cd323b)
+![bottomnavmenu](https://firebasestorage.googleapis.com/v0/b/matiasnnr-repository.appspot.com/o/Gifs%2Fbottomnavmenu.gif?alt=media&token=0195418b-6533-4042-9248-28cb66cd323b)
 
 # [Código](https://github.com/matiasnnr/SwiftUI/tree/master/Dise%C3%B1os/BottomMenuBar)
 
 # Like Animation
-![Like Animation](https://firebasestorage.googleapis.com/v0/b/matiasnnr-repository.appspot.com/o/Gifs%2Flike.gif?alt=media&token=e976518c-64b2-4c85-8ef1-078c216c5e5e)
+![like](https://firebasestorage.googleapis.com/v0/b/matiasnnr-repository.appspot.com/o/Gifs%2Flike.gif?alt=media&token=e976518c-64b2-4c85-8ef1-078c216c5e5e)
 
 # [Código](https://github.com/matiasnnr/SwiftUI/tree/master/Animaciones/Like)
 
